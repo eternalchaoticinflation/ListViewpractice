@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListViewpractice</string>
+    <string-array name="pie_array">
+        <item>apple</item>
+        <item>blueberry</item>
+        <item>cherry</item>
+        <item>coconut</item>
+        <item>pears</item>
+    </string-array>
+</resources>
